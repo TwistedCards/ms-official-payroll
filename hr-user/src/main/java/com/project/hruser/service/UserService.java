@@ -3,7 +3,6 @@ package com.project.hruser.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import com.project.hruser.entities.User;
 import com.project.hruser.repositories.RoleRepository;

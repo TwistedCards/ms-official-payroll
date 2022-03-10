@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.project.hruser.entities.User;
-import com.project.hruser.repositories.UserRepository;
 import com.project.hruser.service.UserService;
 
 @RestController
